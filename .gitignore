@@ -1,0 +1,29 @@
+# Windows / macOS 临时文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Office 临时锁定文件
+~$*.doc
+~$*.docx
+~$*.xls
+~$*.xlsx
+~$*.ppt
+~$*.pptx
+
+# 编辑器临时文件与备份
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# 常见编辑器缓存
+.vscode/
+.idea/
+.history/
+
+# 本地预览或构建缓存
+.cache/
+.temp/
